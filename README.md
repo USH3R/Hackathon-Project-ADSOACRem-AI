@@ -15,7 +15,7 @@ ADSOACRem AI: Agentic DevSecOps for CI/CD. AI agents triage &amp; fix vulnerabil
 
 ADSOACRem AI (Agentic DevSecOps for Automated Compliance Remediation) is an autonomous security framework designed to eliminate the manual bottleneck in high-stakes CI/CD pipelines. By integrating specialized AI agents directly into the GitLab security flow, the system instantly triages vulnerabilities against rigorous federal compliance standards, such as NIST 800-53. Unlike traditional static scanners, ADSOACRem AI not only identifies threats but autonomously generates merge-ready code patches to remediate critical CVEs, reducing the standard "time-to-fix" from days to minutes while maintaining a mandatory human-in-the-loop oversight protocol for final deployment authorization.
 
-## How to Run the Application
+## How to Run the Demo
 
 1. Open Codespace (Github) or any terminal and type this:
          
@@ -30,10 +30,6 @@ ADSOACRem AI (Agentic DevSecOps for Automated Compliance Remediation) is an auto
    Then type:
          
          ./demo.sh
-
-## How to Run the Demo
-1. Open this repository in Codespace or a local terminal.
-2. In terminal, type: base demo.sh
 
 Devpost Submission URL: 
 https://devpost.com/software/agentic-devsecops-for-auto-compliant-remediation-adsoacrem
