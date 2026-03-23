@@ -49,7 +49,7 @@ Run / Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh
 4. Quick Start Command  
 This command is only for use inside a Terminal (like the one in Codespaces, terminal, or on your local machine).  
     Verify Your Location: Ensure your terminal is currently pointed at the project directory;  
-    You should seeADSOACRem-AI in your command prompt.  
+    You should see ADSOACRem-AI in your command prompt.  
     If you have already performed the setup in steps 1, 2, or 3 and just need to restart the application, type:   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bash demo.sh  
   
